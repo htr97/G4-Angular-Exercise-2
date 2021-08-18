@@ -1,0 +1,18 @@
+h1{
+  margin: 10px 5px;
+  color: #C55F0D;
+}
+
+form{
+  margin-left: 30px;
+}
+
+form label{
+  color: #254369;
+}
+
+.buton{
+  margin-top: 10px;
+  align-content: center;
+  text-align: center;
+}

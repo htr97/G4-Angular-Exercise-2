@@ -1,0 +1,17 @@
+.navbar-default {
+  background-color: #0F3154;
+  color: white;
+  padding: 10px 15px;
+}
+
+a {
+  color: white;
+}
+
+.nav-item{
+  align-items:flex-end;
+}
+
+.navbar-collapse{
+  float: right;
+}
